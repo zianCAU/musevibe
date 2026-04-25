@@ -1,0 +1,11 @@
+build/
+managed_components/
+.venv/
+tools/__pycache__/
+__pycache__/
+*.pyc
+sdkconfig.old
+.DS_Store
+.cache/
+.superpowers/
+*.idx
